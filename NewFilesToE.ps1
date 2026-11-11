@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
     Copies files that exist in the source folder but are missing from the destination.
 .EXAMPLE
